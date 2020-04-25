@@ -1,0 +1,13 @@
+# Line spacing
+add_newline = false
+
+[line_break]
+disabled = true
+
+[character]      # The name of the module we are configuring is "character"
+symbol = "➜"     # The "symbol" segment is being set to "➜"
+
+[git_branch]
+symbol = " "
+truncation_length = 4
+truncation_symbol = ""

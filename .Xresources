@@ -1,0 +1,4 @@
+! URXVT Settings
+URxvt.scrollBar: false
+URxvt.cursorBlink: true
+*.font: xft: DejaVuSansMono Nerd Font:size=14
