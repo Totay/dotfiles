@@ -1,0 +1,58 @@
+# Colors
+colors:
+  primary:
+    background: "#222324"
+    foreground: "#bababa"
+
+  # Normal Colors
+  normal:
+    black: "#000000"
+    red: "#e8341c"
+    green: "#68c256"
+    yellow: "#f2d42c"
+    blue: "#1c98e8"
+    magenta: "#8e69c9"
+    cyan: "#1c98e8"
+    white: "#bababa"
+
+  # Bright
+  bright:
+    black: "#666666"
+    red: "#e05a4f"
+    green: "#77b869"
+    yellow: "#dada93"
+    blue: "#e87cd3"
+    magenta: "#957bbe"
+    cyan: "#3d97e2"
+    white: "#bababa"
+
+background_opacity: 0.95
+
+font:
+  normal:
+    family: "DejaVu Sans Mono Nerd Font"
+    style: Regular
+  bold:
+    family: "DejaVu Sans Mono Nerd Font"
+    style: Bold
+  italic:
+    family: "DejaVu Sans Mono Nerd Font"
+    style: Italic 
+  bold_italic:
+    family: "DejaVu Sans Mono Nerd Font"
+    style: Bold Italic
+
+  # Size
+  size: 14
+
+window:
+  padding:
+    x: 2
+    y: 2
+
+draw_bold_text_with_bright_colors: true
+
+selection:
+  save_to_clipboard: true
+
+live_config_reload: true
